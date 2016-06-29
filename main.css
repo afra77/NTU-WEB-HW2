@@ -1,5 +1,11 @@
+
+.text{
+    font-family: Arial;
+}
+
+
 table {
-    background-color: beige
+    background-color: #fc3;
 }
 
 .circle1 {
@@ -22,10 +28,10 @@ table {
     font-size: 23px;
     font-family: Arial;
     font-weight: 900;
-    color: red;
+    color: #fff;
     line-height: 50px;
     text-align: center;
-    background: #ffce00;
+    background: #f00;
 }
 
 .red {
