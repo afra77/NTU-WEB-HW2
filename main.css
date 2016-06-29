@@ -1,9 +1,8 @@
 
-text{
+body{
     font-family: 微軟正黑體;
     font-weight: 900;
 }
-
 
 table {
     background-color: #ff6;
@@ -37,4 +36,5 @@ table {
 
 .red {
     color: red;
+    font-size: 11px;
 }
