@@ -1,0 +1,41 @@
+blockquote {
+    color: blue;
+}
+
+h1 {
+    color: rgba(0, 0, 0, 0);
+}
+
+td[rowspan="2"] {
+    color: #fff;
+}
+
+strong {
+    color: #00f;
+    color: #f00;
+}
+
+p {
+    color: navy
+}
+
+div {
+    font-family: DFKai-SB, BiauKai, arial;
+}
+
+div[align="center"] {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+td[rowspan="2"] {
+    text-align: center;
+}
+
+td[rowspan="2"] {
+    letter-spacing: 0.3em;
+}
+
+p {
+    line-height: 30px;
+}
